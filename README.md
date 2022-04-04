@@ -19,4 +19,11 @@ Linux Commands
 
 9.Command to open all files of current directory in visual studio code : code .
 
-10.Command to 
+10.Command to change directory cd directoryname ex: cd Desktop
+
+11.Command to move fiel to different direcotory : mv filename direcotry-path
+
+12.Command to copy files from one directory to other : cp -rvf tf-var tf-var-custom 
+here tf-var , tf-var-custom are directory names
+
+
