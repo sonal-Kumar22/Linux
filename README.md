@@ -19,4 +19,4 @@ Linux Commands
 
 9.Command to open all files of current directory in visual studio code : code .
 
-10.
+10.Command to 
