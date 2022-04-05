@@ -29,6 +29,7 @@ here tf-var , tf-var-custom are directory names
 13.Command to view file contents in terminal : cat filename
 
 14.Command to copy file from one directory to another : cp Desktop/DevOps/Terraform/Tasks/Instance-Creation/ec2.tf Desktop/DevOps/Terraform/Tasks/ec2-sg-                                                         IE 
+
 (Run command outside of all the folders)
 
 15.
