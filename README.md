@@ -26,4 +26,8 @@ Linux Commands
 12.Command to copy files from one directory to other : cp -rvf tf-var tf-var-custom 
 here tf-var , tf-var-custom are directory names
 
+13.Command to view file contents in terminal : cat filename
+
+14.
+
 
