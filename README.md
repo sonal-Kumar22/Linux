@@ -32,6 +32,6 @@ here tf-var , tf-var-custom are directory names
 
 (Run command outside of all the folders)
 
-15.
+15.Command to view status of installed software : service nginx status
 
 
